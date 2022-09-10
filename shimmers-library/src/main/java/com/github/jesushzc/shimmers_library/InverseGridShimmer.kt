@@ -14,7 +14,6 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.graphics.Shape
-import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 
 /**
@@ -111,7 +110,7 @@ private fun ShimmerGridItem(
         Spacer(modifier = Modifier.width(10.dp))
         Spacer(
             modifier = Modifier
-                .size(90.dp)
+                .size(80.dp)
                 .clip(shape)
                 .background(brush)
         )

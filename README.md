@@ -33,9 +33,7 @@ InverseGridShimmer(
     totalElements: Int = 1,
     animationDuration: Int = 500,
     repeatMode: RepeatMode = RepeatMode.Restart,
-) {
-	@Content
-}
+)
 ```
 ![inverse-shimmer](https://user-images.githubusercontent.com/111035803/189658696-6b919df5-374e-4ccd-a744-f8cfb9114044.png)
 
@@ -46,9 +44,7 @@ GridShimmer(
     totalElements: Int = 1,
     animationDuration: Int = 500,
     repeatMode: RepeatMode = RepeatMode.Restart,
-) {
-	@Content
-}
+)
 ```
 ![grid-shimmer](https://user-images.githubusercontent.com/111035803/189659043-6d573995-b447-4f86-8ff0-4e523f3f58e1.png)
 
@@ -58,9 +54,7 @@ LinesShimmer(
     totalElements: Int = 1,
     animationDuration: Int = 500,
     repeatMode: RepeatMode = RepeatMode.Restart,
-) {
-	@Content
-}
+)
 ```
 
 ![lines-shimmers](https://user-images.githubusercontent.com/111035803/189659629-2ca70d93-033d-412b-85bd-091bd6ec8bd7.png)
@@ -71,9 +65,7 @@ SingleShapeShimmer(
     shape: Shape = CircleShape,
     animationDuration: Int = 500,
     repeatMode: RepeatMode = RepeatMode.Restart,
-) {
-	@Content
-}
+)
 ```
 ![singleshape](https://user-images.githubusercontent.com/111035803/189659632-c51ee419-41e6-4984-add7-f2054bba8cb9.png)
 
@@ -82,8 +74,6 @@ SingleLineShimmer(
     modifier: Modifier = Modifier,
     animationDuration: Int = 500,
     repeatMode: RepeatMode = RepeatMode.Restart,
-) {
-	@Content
-}
+)
 ```
 ![singleline](https://user-images.githubusercontent.com/111035803/189659633-51bded3d-3e83-476b-a5f8-a42371cfb2ff.png)

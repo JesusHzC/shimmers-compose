@@ -1,9 +1,6 @@
 
 # Shimmers for Jetpack Compose
 
-A brief description of what this project does and who it's for
-
-
 ## Add to your project
 
 Add it in your root build.gradle at the end of repositories:
